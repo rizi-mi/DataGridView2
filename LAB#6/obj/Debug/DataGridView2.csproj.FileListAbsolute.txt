@@ -1,0 +1,11 @@
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\bin\Debug\DataGridView2.exe.config
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\bin\Debug\DataGridView2.exe
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\bin\Debug\DataGridView2.pdb
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.csprojAssemblyReference.cache
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.Form1.resources
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.Properties.Resources.resources
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.csproj.GenerateResource.cache
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.csproj.CoreCompileInputs.cache
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.exe
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.pdb
+D:\3 семестр\информационные системы и технологии\VS\DataGridView2\obj\Debug\DataGridView2.Form2.resources

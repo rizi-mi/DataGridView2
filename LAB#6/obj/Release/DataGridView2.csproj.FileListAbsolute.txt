@@ -1,0 +1,12 @@
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\bin\Release\DataGridView2.exe.config
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\bin\Release\DataGridView2.exe
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\bin\Release\DataGridView2.pdb
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.csproj.AssemblyReference.cache
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.csproj.SuggestedBindingRedirects.cache
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.Form1.resources
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.Form2.resources
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.Properties.Resources.resources
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.csproj.GenerateResource.cache
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.csproj.CoreCompileInputs.cache
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.exe
+C:\Users\malya\Downloads\Telegram Desktop\DataGridView2\obj\Release\DataGridView2.pdb
